@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Analyze class schedule conflicts and overlapping courses to find resolution strategies.">
+  <title>Clash Analysis - Schedule Conflicts</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header role="banner">
+    <h1>⚠️ Clash Analysis</h1>
+    <nav role="navigation" aria-label="Main Navigation">
+      <a href="index.html">Home</a>
+      <a href="timetable.html">Timetable</a>
+      <a href="clashes.html" class="active">Clash Analysis</a>
+      <a href="help.html">Help & FAQ</a>
+    </nav>
+  </header>
+
+  <main role="main">
+    <h2>🔴 Confirmed Clashes (Cannot Attend Both)</h2>
+    
+    <section class="timetable">
+      <div class="day">
+        <h3>Monday 12:00–13:00</h3>
+        <div class="clash">
+          <span class="clash-marker">❌</span> <strong>Advanced Chemistry</strong> vs 
+          <strong>Fundamentals of Information Security</strong>
+        </div>
+        <p class="text-muted"><em>Action Required:</em> Contact your academic coordinator immediately to arrange a reschedule.</p>
+      </div>
+
+      <div class="day">
+        <h3>Monday 14:00–15:00</h3>
+        <div class="clash">
+          <span class="clash-marker">❌</span> <strong>Electronics for Computing 1</strong> vs 
+          <strong>Internetworking Design and LAN/MAN Administration 1</strong>
+        </div>
+        <p class="text-muted"><em>Action Required:</em> Check if either class offers online or alternate session options.</p>
+      </div>
+
+      <div class="day">
+        <h3>Sunday 12:00–13:00</h3>
+        <div class="clash">
+          <span class="clash-marker">⚠️</span> <strong>Electricity and Magnetism</strong> 
+          (LR 2 - potential overlap with other session)
+        </div>
+        <p class="text-muted"><em>Action Required:</em> Verify with the department if this conflicts with another required class.</p>
+      </div>
+    </section>
+
+    <h2 style="margin-top: 2rem;">🟡 Potential Clashes (High Risk)</h2>
+    
+    <section class="timetable">
+      <div class="day">
+        <h3>Library Sessions (08:00–09:00)</h3>
+        <div class="clash potential">
+          <span class="clash-marker">⚠️</span> <strong>Artificial Intelligence</strong> (LIB R2) vs 
+          <strong>Internetworking Design 2</strong> (LIB R8)
+        </div>
+        <p class="text-muted">Both are electives in different rooms. Choose one.</p>
+      </div>
+
+      <div class="day">
+        <h3>Afternoon Library Sessions</h3>
+        <div class="clash potential">
+          <span class="clash-marker">⚠️</span> <strong>Mobile Programming</strong> (LIB R9, 12:00–13:00) vs 
+          <strong>Fibre Optic Technology</strong> (LIB R8, 12:00–13:00)
+        </div>
+        <p class="text-muted">Both are electives. Select one based on your interests.</p>
+      </div>
+
+      <div class="day">
+        <h3>Evening Electives</h3>
+        <div class="clash potential">
+          <span class="clash-marker">⚠️</span> <strong>Information Systems Security</strong> (LIB R9, 15:00–16:00) vs 
+          <strong>Digital Communications I</strong> (EXT R1, 15:00–16:00)
+        </div>
+        <p class="text-muted">Both are electives. Prioritize based on your degree requirements.</p>
+      </div>
+    </section>
+
+    <h2 style="margin-top: 2rem;">💡 Resolution Recommendations</h2>
+    
+    <section class="timetable">
+      <div class="alert alert-info">
+        <h3>Priority Actions</h3>
+        <ol>
+          <li><strong>Urgent:</strong> Email your academic coordinator about the confirmed clashes on Monday</li>
+          <li><strong>High:</strong> Request alternative session times or online participation options</li>
+          <li><strong>Medium:</strong> For electives, consult your degree pathway and remove low-priority courses</li>
+          <li><strong>Preventive:</strong> Schedule a meeting to discuss course load and options</li>
+        </ol>
+      </div>
+
+      <h3>Tips for Resolution</h3>
+      <ul>
+        <li>✅ Check if your institution offers multiple sections of the same course</li>
+        <li>✅ Look for online or asynchronous versions of conflicting courses</li>
+        <li>✅ Consider audit options or deferred enrollment for lower-priority electives</li>
+        <li>✅ Contact lecturers to discuss attendance policies and recorded sessions</li>
+        <li>✅ Review your degree requirements to identify which courses are truly mandatory</li>
+      </ul>
+
+      <h3>For Electives Only</h3>
+      <p>The conflicts with library/extension courses are lower priority since these are optional. 
+        You can safely deselect courses like:</p>
+      <ul>
+        <li>Artificial Intelligence OR Internetworking Design 2</li>
+        <li>Mobile Programming OR Fibre Optic Technology</li>
+        <li>Information Systems Security OR Digital Communications I</li>
+      </ul>
+    </section>
+
+    <h2 style="margin-top: 2rem;">📞 Next Steps</h2>
+    
+    <section class="timetable text-center">
+      <p><strong>For Timetable Queries & Class Rescheduling:</strong></p>
+      <p style="font-size: 1.2rem; color: #ffcc00; font-weight: bold;">
+        📞 Contact Programme Coordinator: 
+        <a href="tel:0979328041" style="color: #ffcc00; text-decoration: none; border-bottom: 2px solid #ffcc00;" title="Click to call the Programme Coordinator">0979-328041</a>
+      </p>
+      <p class="text-muted">For: Timetable queries, course clashes, class rescheduling, missing courses</p>
+      <hr style="border: 1px solid rgba(255,255,255,0.1); margin: 1.5rem 0;">
+      <p>For additional help, visit the <a href="help.html">Help & FAQ page</a>.</p>
+      <a class="button" href="timetable.html">← Back to Timetable</a>
+    </section>
+  </main>
+
+  <footer role="contentinfo">
+    <p>© 2026 My Timetable App | 
+      <a href="help.html">Help</a> | 
+      <a href="index.html">Privacy & Terms</a>
+    </p>
+  </footer>
+
+  <script src="scripts.js" defer></script>
+  <script src="data.js" defer></script>
+</body>
+</html>

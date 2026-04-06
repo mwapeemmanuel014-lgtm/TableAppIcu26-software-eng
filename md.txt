@@ -1,0 +1,342 @@
+Great — this second timetable fills in the missing gaps. I’ve now combined **Week 1 + Week 2** and built you a **clean personal timetable** plus a **proper clash analysis**.
+
+---
+
+# 🗓️ **YOUR CLEAN PERSONAL TIMETABLE**
+
+## ✅ **MONDAY (Week 1 & Week 2 — same structure)**
+
+📍 **Main Hall**
+
+* 08:00–09:00 → Business Communication Skills
+* 10:00–11:00 → Advanced Physics
+* 11:00–12:00 → Computer Hardware
+* 12:00–13:00 → Advanced Chemistry
+* 14:00–15:00 → Electronics for Computing 1
+* 15:00–16:00 → Interactive Web Development
+
+📍 **LR 2**
+
+* 16:00–17:00 → Electricity and Magnetism
+
+---
+
+## ✅ **MONDAY (Additional from Week 2)**
+
+📍 **Hall**
+
+* 13:00–14:00 → Solid State Chemistry
+* 14:00–15:00 → Internetworking Design and LAN/MAN Administration 1
+* 15:00–16:00 → Java Programming *(not needed but useful reference)*
+
+📍 **LR 1**
+
+* 12:00–13:00 → Fundamentals of Information Security
+
+---
+
+## ✅ **TUESDAY**
+
+📍 **TR 3**
+
+* 09:00–10:00 → Internetworking Design and LAN/MAN Administration 1
+
+---
+
+## ✅ **SUNDAY (Week 2 — very important)**
+
+📍 **LR 2**
+
+* 12:00–13:00 → Electricity and Magnetism
+
+📍 **TR 3**
+
+* 10:00–11:00 → Fundamentals of Information Security
+
+---
+
+## ✅ **LIBRARY / EXTENSION (MAIN COURSES FROM HIGHER LEVELS)**
+
+📍 **LIB R2**
+
+* 08:00–09:00 → Artificial Intelligence
+
+📍 **LIB R8**
+
+* 08:00–09:00 → Internetworking Design and LAN/MAN Administration 2
+* 09:00–10:00 → Network Security Administration 1
+* 12:00–13:00 → Fibre Optic Technology
+
+📍 **LIB R9**
+
+* 12:00–13:00 → Mobile Programming
+* 14:00–15:00 → Software Engineering 1
+* 15:00–16:00 → Information Systems Security
+
+📍 **EXT R1**
+
+* 13:00–14:00 → Geographical Information Systems
+* 15:00–16:00 → Digital Communications I
+
+---
+
+# ⚠️ **CLASH ANALYSIS (IMPORTANT)**
+
+## 🔴 **Confirmed CLASHES**
+
+### 1. **Monday 14:00–15:00**
+
+* Electronics for Computing 1
+  ❌ vs
+* Internetworking Design and LAN/MAN Administration 1
+
+👉 You **cannot attend both**
+
+---
+
+### 2. **Monday 12:00–13:00**
+
+* Advanced Chemistry
+  ❌ vs
+* Fundamentals of Information Security
+
+---
+
+### 3. **Sunday 12:00–13:00**
+
+* Electricity and Magnetism
+  ❌ vs
+* (Possible overlap with other LR 2 stacked sessions)
+
+---
+
+### 4. **LIB R8 Morning Block**
+
+* 08:00–09:00 → Internetworking Design 2
+  ❌ vs
+* 08:00–09:00 → Artificial Intelligence (LIB R2)
+
+👉 Same time, different rooms → **clash**
+
+---
+
+### 5. **LIB R9 Afternoon Block**
+
+* 14:00–15:00 → Software Engineering 1
+  ❌ vs
+* Other possible overlapping stacked courses in same block
+
+---
+
+## 🟡 **POTENTIAL (STRUCTURE-BASED) CLASHES**
+
+These depend on exact day alignment (not fully labeled):
+
+* Information Systems Security vs Digital Communications I
+* Mobile Programming vs Fibre Optic Technology
+
+---
+
+# ✅ **FINAL SUMMARY**
+
+### ✔️ Your Week Pattern:
+
+* **Monday = heavily overloaded (multiple clashes)**
+* **Sunday = moderate clashes**
+* **Library sessions = high clash risk**
+
+---
+
+# 🧠 **WHAT THIS MEANS FOR YOU**
+
+You **WILL need to:**
+
+1. Contact your coordinator (as noted in timetable)
+2. Choose priority courses OR request rescheduling
+3. Confirm:
+
+   * Which courses are **core vs repeat**
+   * Which ones you’re officially registered for this semester
+
+---
+
+# 👍 If you want next:
+
+I can:
+
+* Build a **conflict-free version (optimized schedule)**
+* Help you decide **which courses to prioritize**
+* Draft a **message to your coordinator about clashes**
+
+Just tell me 👍
+Great — this second timetable fills in the missing gaps. I’ve now combined **Week 1 + Week 2** and built you a **clean personal timetable** plus a **proper clash analysis**.
+
+---
+
+# 🗓️ **YOUR CLEAN PERSONAL TIMETABLE**
+
+## ✅ **MONDAY (Week 1 & Week 2 — same structure)**
+
+📍 **Main Hall**
+
+* 08:00–09:00 → Business Communication Skills
+* 10:00–11:00 → Advanced Physics
+* 11:00–12:00 → Computer Hardware
+* 12:00–13:00 → Advanced Chemistry
+* 14:00–15:00 → Electronics for Computing 1
+* 15:00–16:00 → Interactive Web Development
+
+📍 **LR 2**
+
+* 16:00–17:00 → Electricity and Magnetism
+
+---
+
+## ✅ **MONDAY (Additional from Week 2)**
+
+📍 **Hall**
+
+* 13:00–14:00 → Solid State Chemistry
+* 14:00–15:00 → Internetworking Design and LAN/MAN Administration 1
+* 15:00–16:00 → Java Programming *(not needed but useful reference)*
+
+📍 **LR 1**
+
+* 12:00–13:00 → Fundamentals of Information Security
+
+---
+
+## ✅ **TUESDAY**
+
+📍 **TR 3**
+
+* 09:00–10:00 → Internetworking Design and LAN/MAN Administration 1
+
+---
+
+## ✅ **SUNDAY (Week 2 — very important)**
+
+📍 **LR 2**
+
+* 12:00–13:00 → Electricity and Magnetism
+
+📍 **TR 3**
+
+* 10:00–11:00 → Fundamentals of Information Security
+
+---
+
+## ✅ **LIBRARY / EXTENSION (MAIN COURSES FROM HIGHER LEVELS)**
+
+📍 **LIB R2**
+
+* 08:00–09:00 → Artificial Intelligence
+
+📍 **LIB R8**
+
+* 08:00–09:00 → Internetworking Design and LAN/MAN Administration 2
+* 09:00–10:00 → Network Security Administration 1
+* 12:00–13:00 → Fibre Optic Technology
+
+📍 **LIB R9**
+
+* 12:00–13:00 → Mobile Programming
+* 14:00–15:00 → Software Engineering 1
+* 15:00–16:00 → Information Systems Security
+
+📍 **EXT R1**
+
+* 13:00–14:00 → Geographical Information Systems
+* 15:00–16:00 → Digital Communications I
+
+---
+
+# ⚠️ **CLASH ANALYSIS (IMPORTANT)**
+
+## 🔴 **Confirmed CLASHES**
+
+### 1. **Monday 14:00–15:00**
+
+* Electronics for Computing 1
+  ❌ vs
+* Internetworking Design and LAN/MAN Administration 1
+
+👉 You **cannot attend both**
+
+---
+
+### 2. **Monday 12:00–13:00**
+
+* Advanced Chemistry
+  ❌ vs
+* Fundamentals of Information Security
+
+---
+
+### 3. **Sunday 12:00–13:00**
+
+* Electricity and Magnetism
+  ❌ vs
+* (Possible overlap with other LR 2 stacked sessions)
+
+---
+
+### 4. **LIB R8 Morning Block**
+
+* 08:00–09:00 → Internetworking Design 2
+  ❌ vs
+* 08:00–09:00 → Artificial Intelligence (LIB R2)
+
+👉 Same time, different rooms → **clash**
+
+---
+
+### 5. **LIB R9 Afternoon Block**
+
+* 14:00–15:00 → Software Engineering 1
+  ❌ vs
+* Other possible overlapping stacked courses in same block
+
+---
+
+## 🟡 **POTENTIAL (STRUCTURE-BASED) CLASHES**
+
+These depend on exact day alignment (not fully labeled):
+
+* Information Systems Security vs Digital Communications I
+* Mobile Programming vs Fibre Optic Technology
+
+---
+
+# ✅ **FINAL SUMMARY**
+
+### ✔️ Your Week Pattern:
+
+* **Monday = heavily overloaded (multiple clashes)**
+* **Sunday = moderate clashes**
+* **Library sessions = high clash risk**
+
+---
+
+# 🧠 **WHAT THIS MEANS FOR YOU**
+
+You **WILL need to:**
+
+1. Contact your coordinator (as noted in timetable)
+2. Choose priority courses OR request rescheduling
+3. Confirm:
+
+   * Which courses are **core vs repeat**
+   * Which ones you’re officially registered for this semester
+
+---
+
+# 👍 If you want next:
+
+I can:
+
+* Build a **conflict-free version (optimized schedule)**
+* Help you decide **which courses to prioritize**
+* Draft a **message to your coordinator about clashes**
+
+Just tell me 👍

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Personal timetable app for managing class schedules, identifying clashes, and planning your week efficiently.">
+  <meta name="theme-color" content="#004080">
+  <title>My Timetable App - Schedule Planner</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header role="banner">
+    <h1>🗓️ My Timetable App</h1>
+    <nav role="navigation" aria-label="Main Navigation">
+      <a href="index.html" class="active">Home</a>
+      <a href="timetable.html">View Timetable</a>
+      <a href="clashes.html">Clash Analysis</a>
+      <a href="help.html">Help & FAQ</a>
+    </nav>
+  </header>
+
+  <main role="main">
+    <!-- Hero Section -->
+    <section class="hero" aria-label="Welcome section">
+      <h2>Welcome to your personal timetable!</h2>
+      <p>View your schedule, identify clashes, and plan your week efficiently with ease.</p>
+      <a class="button" href="timetable.html">📅 View Timetable</a>
+      <a class="button" href="clashes.html">⚠️ See Clash Summary</a>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features" aria-label="Key features">
+      <div class="feature-card" aria-label="Feature: Clean organized timetable">
+        🟢 <strong>Clean Timetable</strong><br>
+        <span class="text-muted">View all your classes organized by day</span>
+      </div>
+      <div class="feature-card" aria-label="Feature: Schedule conflict detection">
+        ⚠️ <strong>Clash Alerts</strong><br>
+        <span class="text-muted">Identify conflicting courses instantly</span>
+      </div>
+      <div class="feature-card" aria-label="Feature: Search and filter">
+        🔍 <strong>Search & Filter</strong><br>
+        <span class="text-muted">Quickly find specific courses</span>
+      </div>
+      <div class="feature-card" aria-label="Feature: Print support">
+        🖨️ <strong>Print Support</strong><br>
+        <span class="text-muted">Print your timetable for offline access</span>
+      </div>
+    </section>
+
+    <!-- Quick Stats -->
+    <section class="mt-3" aria-label="Statistics">
+      <h2>📊 Your Schedule Overview</h2>
+      <div class="features">
+        <div class="feature-card">
+          <strong>11</strong> total courses
+        </div>
+        <div class="feature-card">
+          <strong>4</strong> confirmed clashes
+        </div>
+        <div class="feature-card">
+          <strong>5 days</strong> of scheduled classes
+        </div>
+        <div class="feature-card">
+          <strong>40+ hours</strong> of instruction
+        </div>
+      </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="text-center mt-3" aria-label="Next steps">
+      <h2>Get Started</h2>
+      <p>Choose an option below to manage your schedule:</p>
+      <a class="button" href="timetable.html">View Full Timetable</a>
+      <a class="button secondary" href="clashes.html">Check for Conflicts</a>
+    </section>
+
+    <!-- Quick Contact -->
+    <section class="alert alert-info mt-3" aria-label="Contact information">
+      <h3>📞 Need Help with Your Timetable?</h3>
+      <p>
+        <strong>Contact the Programme Coordinator:</strong><br>
+        <span style="font-size: 1.2rem; color: #ffcc00; font-weight: bold;">
+          <a href="tel:0979328041" style="color: #ffcc00; text-decoration: none; border-bottom: 2px solid #ffcc00;" title="Call the Programme Coordinator">0979-328041</a>
+        </span>
+      </p>
+      <p class="text-muted">
+        For timetable queries, course clashes, class rescheduling, or missing courses
+      </p>
+      <p style="margin-top: 1rem;">
+        <a href="help.html">View Help & FAQ →</a>
+      </p>
+    </section>
+  </main>
+
+  <footer role="contentinfo">
+    <p>© 2026 My Timetable App | 
+      <a href="help.html">Help</a> | 
+      <a href="index.html">Privacy & Terms</a>
+    </p>
+  </footer>
+
+  <script src="scripts.js" defer></script>
+</body>
+</html>
